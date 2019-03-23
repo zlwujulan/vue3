@@ -18,7 +18,6 @@ export default {
 .red{
   font-size: 30px;
   width:100%;
-  background: red;
-  height: 20px;
+ 
 }
 </style>
